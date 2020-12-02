@@ -11,5 +11,4 @@ window.onload = function() {
 
     let excuse = whoExcuse+" "+actionExcuse+" "+whatExcuse+" "+whenExcuse;
     document.getElementById("generator").innerHTML = excuse;
-    // console.log(excuse);
 }
